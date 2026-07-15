@@ -11,8 +11,8 @@ export default function Projects() {
       image: portfolioImg,
       desc: "A modern responsive portfolio built using React, Vite and Framer Motion showcasing my skills, projects and professional experience with smooth animations and premium UI.",
       tech: ["React", "CSS", "Framer Motion", "Vite"],
-      demo: "#",
-      github: "#",
+      demo: "https://payal-portfolio-seven.vercel.app",
+      github: "https://github.com/PayalKessrani/payal-portfolio",
     },
 
     {
